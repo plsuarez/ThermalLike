@@ -29,4 +29,4 @@ python train.py --dataroot ./datasets/thermal_stereo --name rgb2thermal
 ```
 
 ### Pre-trained model
-The pre-trained model can be download from [here](). Place the weights file in models/pretrained/best.pth
+To-Do
