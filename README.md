@@ -7,14 +7,16 @@ This paper proposes a novel model to obtain thermal image-like representations t
 <img src='imgs/architecture.png' width=950>
 
 ## Experimental results
-Qualitative results
+Qualitative results:
+
 <img src='imgs/qualitative.png' width=950>
 
-Quantitative results
-<img src='imgs/quantitative.png' width=950>
+Quantitative results:
+
+<img src='imgs/quantitative.png' width=400>
 
 ### Dataset
-
+The dataset used is [M3FD](https://github.com/JinyuanLiu-CV/TarDAL/blob/main/README.md) for training and Thermal Stereo for testing.
 
 ### Test
 ```bash
