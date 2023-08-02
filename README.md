@@ -29,4 +29,4 @@ python train.py --dataroot ./datasets/thermal_stereo --name rgb2thermal
 ```
 
 ### Pre-trained model
-To-Do
+You can download the pre-trained model from: https://1drv.ms/u/s!AgEKzLVJRxZxwhbAIv4AC16Rmu8N?e=I38PkW
