@@ -30,3 +30,12 @@ python train.py --dataroot ./datasets/thermal_stereo --name rgb2thermal
 
 ### Pre-trained model
 You can download the pre-trained model from: https://espolec-my.sharepoint.com/:u:/g/personal/plsuarez_espol_edu_ec/EQ9T4-cV4tFFpBfDW-si67gBSaTNt4R_kOThPXOs4j3CUw?e=IDwW9E
+
+### Citation 
+If you use this code for your research, please cite our paper.
+
+@article{suarez2023toward,
+  title={Toward a Thermal Image-Like Representation},
+  author={Su{\'a}rez, Patricia L and Sappa, Angel D},
+  year={2023}
+}
