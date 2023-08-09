@@ -35,8 +35,12 @@ You can download the pre-trained model from: https://espolec-my.sharepoint.com/:
 If you use this code for your research, please cite our paper.
 ```bash
 
+
 @inproceedings{suarez2023toward,
   title = {Toward a Thermal Image-Like Representation},
   author = {Patricia L. Suárez and Ángel D. Sappa},
   year = {2023},
+  pages = {},
   booktitle = {Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, VISIGRAPP},
+  
+}
